@@ -15,11 +15,12 @@ Por enquanto não está completo. A medida em que resolvo os desafios, posto-os 
 > [6. Matrizes](#6-matrizes)  
 > [7. Ordenação](#7-ordenação)  
 > [8. Busca](#8-busca)  
-> [9. Recursão](#9-recursão)  
+> [9. Recursão](#9-recursão)
+> [10. Extra](#10-extra)  
 
 ### 1. Expressões aritméticas
 
-- Pneu
+- Pneu (Ruby)
 - Corrida
 - Busca na Internet
 - Tomadas
@@ -128,6 +129,10 @@ Por enquanto não está completo. A medida em que resolvo os desafios, posto-os 
 - Torres de Hanói
 - f91
 - Rumo aos 9s
+
+### 10. Extra
+
+- Life, the Universe, and Everything (Ruby)
 
 ### Agradecimento
 
