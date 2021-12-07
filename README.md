@@ -20,7 +20,7 @@ Por enquanto não está completo. A medida em que resolvo os desafios, posto-os 
 
 ### 1. Expressões aritméticas
 
-- Pneu (Ruby)
+- [Pneu (Ruby)](https://github.com/jeffersonraimon/GruPro-Training-My-Solutions/blob/master/Solutions/1/1Pneu.rb)
 - Corrida
 - Busca na Internet
 - Tomadas
@@ -132,7 +132,7 @@ Por enquanto não está completo. A medida em que resolvo os desafios, posto-os 
 
 ### 10. Extra
 
-- Life, the Universe, and Everything (Ruby)
+- [Life, the Universe, and Everything (Ruby)](https://github.com/jeffersonraimon/GruPro-Training-My-Solutions/blob/master/Solutions/Extra/Life%2C%20the%20Universe%2C%20and%20Everything%20.rb)
 
 ### Agradecimento
 
