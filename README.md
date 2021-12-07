@@ -19,115 +19,115 @@ Por enquanto não está completo. A medida em que resolvo os desafios, posto-os 
 
 ### 1. Expressões aritméticas
 
-Pneu
-Corrida
-Busca na Internet
-Tomadas
-Transporte
-Pedágio
-Cometa
-Distância de Manhattan
-Quadrados
-Tapetes
+- Pneu
+- Corrida
+- Busca na Internet
+- Tomadas
+- Transporte
+- Pedágio
+- Cometa
+- Distância de Manhattan
+- Quadrados
+- Tapetes
 
 ### 2. Desvios condicionais
 
-Flíper
-Campeonato
-Vice-campeão
-Gangorra
-Receita de Bolo
-Conta de água
-Tira-teima
-Cartas
-Detectando Colisões
-Notas da prova
-Frota de Táxi
-Sedex
-Carnaval
-Álbum de Fotos
+- Flíper
+- Campeonato
+- Vice-campeão
+- Gangorra
+- Receita de Bolo
+- Conta de água
+- Tira-teima
+- Cartas
+- Detectando Colisões
+- Notas da prova
+- Frota de Táxi
+- Sedex
+- Carnaval
+- Álbum de Fotos
 
 ### 3. Laços
 
-Soma
-Quermesse
-Cofrinhos da Vó Vitória
-Elevador
-Fatorial
-Bits Trocados
-Primo
-Bafo
-Garçom
-Tacógrafo
-Telescópio
-Saldo de gols
-O Tabuleiro Esburacado
-Compra de Dadinhos
-Ajude Aparecido
-O fugitivo
-Poodle
-Insensibilidade
-Bactérias
-João e o Pé de Feijão
+- Soma
+- Quermesse
+- Cofrinhos da Vó Vitória
+- Elevador
+- Fatorial
+- Bits Trocados
+- Primo
+- Bafo
+- Garçom
+- Tacógrafo
+- Telescópio
+- Saldo de gols
+- O Tabuleiro Esburacado
+- Compra de Dadinhos
+- Ajude Aparecido
+- O fugitivo
+- Poodle
+- Insensibilidade
+- Bactérias
+- João e o Pé de Feijão
 
 ### 4. Vetores
 
-Estágio
-Guerra por Território
-Notas
-Aeroporto
-Fila
-Pulo do sapo
-Vivo ou Morto
-Número de Envelopes
-Campo minado
+- Estágio
+- Guerra por Território
+- Notas
+- Aeroporto
+- Fila
+- Pulo do sapo
+- Vivo ou Morto
+- Número de Envelopes
+- Campo minado
 
 ### 5. Strings
 
-Vestibular
-Telefone
-Língua do P
-Letras
-Você pode dizer 11
-Quem vai ser reprovado
-Proteja sua senha
-Auto Estrada
-Senha da Tia
-Par ou ímpar
-Palavras Ordenadas
+- Vestibular
+- Telefone
+- Língua do P
+- Letras
+- Você pode dizer 11
+- Quem vai ser reprovado
+- Proteja sua senha
+- Auto Estrada
+- Senha da Tia
+- Par ou ímpar
+- Palavras Ordenadas
 
 ### 6. Matrizes
 
-Chuva
-Campo de Minhocas
-Costa
-PacMan
-Robô colecionador
-Sudoku
-Logotipo publicitário na TV da Vovó
+- Chuva
+- Campo de Minhocas
+- Costa
+- PacMan
+- Robô colecionador
+- Sudoku
+- Logotipo publicitário na TV da Vovó
 
 ### 7. Ordenação
 
-Fliperama
-Corrida
-Chamada
-Tetris
-Olimpíadas
-Supermercado
-Balé ***desafio***
+- Fliperama
+- Corrida
+- Chamada
+- Tetris
+- Olimpíadas
+- Supermercado
+- Balé ***desafio***
 
 ### 8. Busca
 
-Tiro ao Alvo
-Carteiro
-Número Proibido
-Binary search
+- Tiro ao Alvo
+- Carteiro
+- Número Proibido
+- Binary search
 
 ### 9. Recursão
 
-Torres de Hanói
-f91
-Rumo aos 9s
+- Torres de Hanói
+- f91
+- Rumo aos 9s
 
 ### Agradecimento
 
